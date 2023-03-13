@@ -1,2 +1,2 @@
-# CI-CD-app-deployment
-Group project with continuous integration and deployment for an app
+# CI-CD-app-deployment-with-AWS
+Group project with continuous integration and deployment on AWS for a web shopping service
