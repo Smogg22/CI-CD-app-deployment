@@ -1,9 +1,20 @@
 # CI-CD-app-deployment-with-AWS
 Group project with continuous integration and deployment on AWS for a web shopping service
 
+# Group #
+* Hayet Yefsah
+[hayetyefsah](https://github.com/hayetyefsah)
+* Arnaud Dejeammes
+[Arnaud-Dejeammes](https://github.com/Arnaud-Dejeammes)
+* Charles Ramade
+[Smogg22](https://github.com/Smogg22)
+
 # Description #
 
 From a git repository filled with an app divided in micro-services.
+
+https://gitlab.com/ma.it.consulting/projet-fil-rouge-neosoft.git
+
 We created one AWS CodeCommit (github repository) each in order to create pipeline for continuous integration and development.
 As soon as we commit and push modifications to one of our micro-services,a new image is automatically generated thanks to a buildspec.yaml file.
 
