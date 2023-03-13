@@ -11,8 +11,7 @@ Group project with continuous integration and deployment on AWS for a web shoppi
 
 # Description #
 
-From a git repository filled with an app divided in micro-services.
-
+From a git repository of an app divided in micro-services:
 https://gitlab.com/ma.it.consulting/projet-fil-rouge-neosoft.git
 
 We created one AWS CodeCommit (github repository) each in order to create pipeline for continuous integration and development.
