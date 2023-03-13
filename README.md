@@ -2,11 +2,11 @@
 Group project with continuous integration and deployment on AWS for a web shopping service
 
 # Group #
-* Hayet Yefsah
+* Hayet Yefsah ->
 [hayetyefsah](https://github.com/hayetyefsah)
-* Arnaud Dejeammes
+* Arnaud Dejeammes ->
 [Arnaud-Dejeammes](https://github.com/Arnaud-Dejeammes)
-* Charles Ramade
+* Charles Ramade ->
 [Smogg22](https://github.com/Smogg22)
 
 # Description #
