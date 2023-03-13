@@ -31,4 +31,4 @@ Then we deployed an infrastructure thanks to AWS CloudFormation. In this infra, 
 - 1 EKS (Kubernetes) cluster
 - 1 EKS nodegroup, in which we defined a resource template and auto-scaling policy
 
-Finally, we managed micro-services deployment in nodes thanks to manifest.yaml files. These manifests also define ports our micro-services use to communicate between them and outside the cluster.
+Finally, we managed micro-services deployment in nodes thanks to manifest files in yaml format. These manifests also define ports our micro-services use to communicate between them and outside the cluster.
